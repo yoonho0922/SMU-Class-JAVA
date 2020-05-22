@@ -14,3 +14,8 @@
 * Student DB
 * 클래스 배열, 클래스 참조, 클래스 멤버 변수 외부에서 변경
 
+#### week10
+
+* 테트리스 블록 구현
+* java.awt.Point, 접근제어자, 클래스 메모리 참조
+* P(private, protected, public) S(static, abstract) F(final)
