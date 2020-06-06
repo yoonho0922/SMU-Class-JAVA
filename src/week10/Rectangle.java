@@ -18,7 +18,7 @@ class Rectangle {
 
 //        uL.translate(WIDTH,HEIGHT);
 //        this.lowerRight = uL;
-//        this.lowerRight = new Point(
+//        this.lowerRight = new week12.Point(
 //                (int)uL.getX()+WIDTH,(int)uL.getY()+HEIGHT);
     }
     public Rectangle(Point uL, Point lR){

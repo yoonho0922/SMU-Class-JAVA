@@ -7,22 +7,22 @@ public class Block3 {
 
     public Block3(Point P){
 
-        //4개의 week10.Rectangle 인스턴스 생성
+        //4개의 week10.week12.Rectangle 인스턴스 생성
         for(int i=0; i<4; i++){
             rectangles[i]= new Rectangle(P);
         }
 
-        //3개의 week10.Rectangle 위치 조정
+        //3개의 week10.week12.Rectangle 위치 조정
         initRecs();
     }
     public Block3(int x, int y){
 
-        //4개의 week10.Rectangle 인스턴스 생성
+        //4개의 week10.week12.Rectangle 인스턴스 생성
         for(int i=0; i<rectangles.length; i++){
             rectangles[i]= new Rectangle(new Point(x,y));
         }
 
-        //3개의 week10.Rectangle 위치 조정
+        //3개의 week10.week12.Rectangle 위치 조정
         initRecs();
     }
 

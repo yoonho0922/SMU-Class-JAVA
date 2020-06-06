@@ -20,7 +20,7 @@ public class Main {
         System.out.println(b);
 
         //week10.Block2, week10.Block3
-        Block2 b2 = new Block2(new Point(10,10));  //week10.Block2(Point P)로 초기화
+        Block2 b2 = new Block2(new Point(10,10));  //week10.Block2(week12.Point P)로 초기화
         Block3 b3 = new Block3(10,10);  //week10.Block3(int x, int y)로 초기화
 
         //b2, b3 출력
