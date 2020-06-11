@@ -25,7 +25,13 @@
 * 병원예약 프로그램
 * 클래스의 분할과 패키지
 
-#### [week12](src/week11)
+#### [week12](src/week12)
 
 * 사각형과 원 면적, 둘레 계산 프로그램
 * 상속과 오버라이드
+
+#### [week13](src/week13)
+
+* Image Viewer 프로그램 : 이미지 파일을 열 수 있는지 확장자 플러그인의 여부를 통해 확인
+* ImageViewerInterface를 상속 받은 JPGModule, PNGModule 등을 ImageViewerd에서 add
+* interface의 구현
