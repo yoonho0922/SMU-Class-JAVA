@@ -35,3 +35,8 @@
 * Image Viewer 프로그램 : 이미지 파일을 열 수 있는지 확장자 플러그인의 여부를 통해 확인
 * ImageViewerInterface를 상속 받은 JPGModule, PNGModule 등을 ImageViewerd에서 add
 * interface의 구현
+
+### [week14](src/week14)
+
+* 문자열에서 문자와 숫자의 수를 알려주는 프로그램
+* HashMap의 사용
